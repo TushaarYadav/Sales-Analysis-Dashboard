@@ -1,4 +1,5 @@
 # Sales-Analysis-Dashboard
+This is a SQL and Power BI end to end Project.
 
 Designed and developed a dynamic Pizza Sales Dashboard using SQL and Power BI, analyzing 817.86K total revenue, 49,574 total pizzas sold, and 21,350 total orders, with an average order value of $38.31 and 2.32 pizzas per order.
 
